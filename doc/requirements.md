@@ -6,7 +6,6 @@ Functionality
 * Annotated lines must have a visual identifier
 * Clicking a line pops up a comment box with a save button
 * Should users be able to modify other user comments?
-* 
 
 Configuration
 =============
@@ -16,7 +15,7 @@ Configuration
 * Comment size that specifies whether the annotations begin 
 
  
- Outstanding Questions
- =====================
- * How does access control work?
+Outstanding Questions
+=====================
+* How does access control work?
 
